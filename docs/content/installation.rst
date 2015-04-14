@@ -97,7 +97,7 @@ To install HomeBrew, you run the following command (lifted from the HomeBrew sit
 
 .. code-block:: bash
 
-	ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 Using HomeBrew, install HDF5 from the HomeBrew Science "tap";
 
